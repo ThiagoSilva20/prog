@@ -1,4 +1,4 @@
 i = 1
 o = 2
-
-print(i+o)
+u = 12
+print(i+o-u)
